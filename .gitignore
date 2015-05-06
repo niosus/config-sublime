@@ -1,11 +1,13 @@
 ###SublimeText###
 
-# Ignore everything:
-*
-
 # only sync this folder
-!Packages/User/
-!.gitignore
+Cache/
+Backup/
+Index/
+Local/
+Installed Packages/
+*sublime-workspace
+
 
 # do not sync these files even though they are in user folder
 Package Control.last-run
