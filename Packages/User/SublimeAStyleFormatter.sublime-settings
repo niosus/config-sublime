@@ -1,0 +1,16 @@
+{// The mapping key is `syntax name`, and the value is `formatting mode`.
+    // Note that the value for each mapping should be "c", "java" or "cs".
+    "user_defined_syntax_mode_mapping": {
+        // For example:
+        
+        "pde": "java",
+        "apex": "java"
+        
+}, 
+// Language-specific for C++
+    "options_c++": {
+    	"style": "google",
+        "use_only_additional_options": false,
+        "additional_options_file": ""
+    }
+}

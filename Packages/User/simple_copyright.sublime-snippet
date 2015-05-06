@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+// Copyright ${1:Igor Bogoslavskyi}, year ${2:2015}.
+// In case of any problems with the code please contact me.
+// Email: ${3:igor.bogoslavskyi@uni-bonn.de}.
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>simple_copyright</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

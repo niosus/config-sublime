@@ -8,11 +8,16 @@ Local/
 Installed Packages/
 *sublime-workspace
 
+Packages/*
+!Packages/User
+
 
 # do not sync these files even though they are in user folder
-Package Control.last-run
-Package Control.ca-list
-Package Control.ca-bundle
-Package Control.system-ca-bundle
-Package Control.cache/
-Package Control.ca-certs/
+*.last-run
+*.ca-list
+*.ca-bundle
+*.system-ca-bundle
+*.cache/
+*.ca-certs/
+
+.SublimeREPLHistory

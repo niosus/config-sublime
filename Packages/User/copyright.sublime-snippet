@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/**
+*
+* This code is under MIT licence unless stated otherwise.
+* You may contact the author: Igor Bogoslavskyi via email:
+* igor.bogoslavsyi@uni-bonn.de
+*
+**/
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>copyright_igor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cpp, source.c</scope>
+</snippet>

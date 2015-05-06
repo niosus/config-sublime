@@ -1,0 +1,5 @@
+{
+	"cmd": ["gnuplot", "--persist", "$file"],
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.gnuplot"
+}
