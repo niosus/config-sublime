@@ -17,7 +17,9 @@ Packages/*
 *.ca-list
 *.ca-bundle
 *.system-ca-bundle
-*.cache/
 *.ca-certs/
+# everything that is cache is not interesting
+*.cache*
 
 .SublimeREPLHistory
+# added by GitSavvy
