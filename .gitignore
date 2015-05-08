@@ -21,3 +21,5 @@ Packages/*
 *.ca-certs/
 
 .SublimeREPLHistory
+# added by GitSavvy
+/Packages/User/encoding_cache.json
