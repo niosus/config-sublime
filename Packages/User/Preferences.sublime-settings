@@ -35,7 +35,17 @@
 		"datasets",
 		"posteriori",
 		"Voronoi",
-		"indices"
+		"indices",
+		"traversable",
+		"Xtions",
+		"recomputation",
+		"parcour",
+		"matcher",
+		"dataset",
+		"subsampled",
+		"normals",
+		"subsample",
+		"submap"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_with_fields": true,
@@ -53,8 +63,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Markdown",
+		"Vintage",
 		"SideBarEnhancements"
 	],
 	"indent_guide_options":

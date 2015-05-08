@@ -51,7 +51,7 @@
         Add entries to this array (e.g. "pull" or "push") if you'd like the
         output of these Git commands to always be shown in a panel.
      */
-    "show_panel_for": [],
+    "show_panel_for": ["pull", "push"],
 
     /*
         Use the Sublime configured syntax for COMMIT_EDITMSG rather than
