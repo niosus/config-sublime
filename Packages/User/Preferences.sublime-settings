@@ -44,7 +44,6 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_with_fields": true,
 	"color_scheme": "Packages/User/SublimeLinter/Piatto Dark (SL).tmTheme",
-	"dictionary": "Packages/Dictionaries/English (American).dic",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
 	"font_face": "Ubuntu Mono",

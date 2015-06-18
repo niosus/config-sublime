@@ -3,7 +3,7 @@
         Change this to `false` if you don't wish to be prompted when
         discarding files.
      */
-    "prompt_before_destructive_action": true,
+    "prompt_before_destructive_action": false,
 
     /*
         Change this to `true` when doing dev work on GitSavvy.
