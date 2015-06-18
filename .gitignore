@@ -24,3 +24,6 @@ Packages/*
 .SublimeREPLHistory
 # added by GitSavvy
 /Packages/User/encoding_cache.json
+
+# added by GitSavvy
+/Packages/User/GitSavvy/GitSavvy.active-diff-view.json.tmTheme
