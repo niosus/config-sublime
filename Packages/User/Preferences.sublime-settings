@@ -43,12 +43,22 @@
 		"unrectified",
 		"Pointgrey",
 		"Bumblebee2",
-		"firewire"
+		"firewire",
+		"parcour",
+		"recomputation",
+		"Niederzissen"
 	],
 	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".:>",
+			"selector": "source.c++ - string - comment - constant.numeric"
+		}
+	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Spacegray Eighties (SL).tmTheme",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
 	"font_face": "Ubuntu Mono",
@@ -60,8 +70,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -81,6 +91,6 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

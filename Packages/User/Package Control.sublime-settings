@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,7 +9,6 @@
 		"Anaconda",
 		"AutoDocstring",
 		"AutoPEP8",
-		"BracketGuard",
 		"BracketHighlighter",
 		"C++11",
 		"CMake",
@@ -23,14 +23,13 @@
 		"Gitignore",
 		"GitSavvy",
 		"Gnuplot",
-		"GoogleTesting",
-		"Inline Google Translate",
 		"LaTeX Blindtext",
 		"LaTeX Snippets",
 		"LaTeXTools",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Material Theme",
+		"Materialize",
 		"My Snippets",
 		"Open",
 		"OpenScad",

@@ -1,0 +1,11 @@
+<snippet>
+    <description>#def_guards_formatted</description>
+    <content><![CDATA[#ifndef ${TM_FILEPATH/.*\/(\w*)\/src\/(\w*)\/(\w*)\.h/\U$1_src_$2_$3_h_\E/g}
+#define ${TM_FILEPATH/.*\/(\w*)\/src\/(\w*)\/(\w*)\.h/\U$1_src_$2_$3_h_\E/g}
+
+$0
+
+#endif  // ${TM_FILEPATH/.*\/(\w*)\/src\/(\w*)\/(\w*)\.h/\U$1_src_$2_$3_h_\E/g}]]></content>
+    <tabTrigger>def</tabTrigger>
+    <scope>source.c, source.c++, source.objc, source.objc++</scope>
+</snippet>

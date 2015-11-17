@@ -14,6 +14,7 @@
         "indent-modifiers": true,
         "indent-cases": true,
         "use_only_additional_options": false,
+        "indent-col1-comments":true,
         "additional_options_file": ""
     }
 }
