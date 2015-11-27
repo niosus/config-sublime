@@ -35,6 +35,7 @@
    [
         // "-I", "/usr/include",
         "-I", "/usr/include/clang/3.4/include",
+        "-I", "/usr/include/vtk-5.8",
         "-I", "/opt/ros/indigo/include",
         "-I", "/opt/ros/indigo/include/*",
         // "-I", "/usr/local/include",

@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"All Autocomplete",
 		"Anaconda",
 		"AutoDocstring",
@@ -44,10 +45,12 @@
 		"SublimeLinter-pep257",
 		"SublimeREPL",
 		"SVN",
+		"Tabright",
 		"Terminal",
 		"TodoReview",
 		"TrailingSpaces",
 		"WakaTime",
-		"Wrap Plus"
+		"Wrap Plus",
+		"Zen Tabs"
 	]
 }

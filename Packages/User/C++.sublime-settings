@@ -4,13 +4,10 @@
 		"cc",
 		"cxx",
 		"c++",
-		"hpp",
 		"hxx",
 		"h++",
 		"inl",
 		"ipp",
-		"cpp",
-		"cpp",
-		"h"
+		"cpp"
 	]
 }
