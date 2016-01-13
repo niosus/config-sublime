@@ -10,7 +10,8 @@
 		"inl",
 		"ipp",
 		"hpp",
-		"h",
-		"cpp"
+		"cpp",
+		"cpp",
+		"h"
 	]
 }
