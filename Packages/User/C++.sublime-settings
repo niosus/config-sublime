@@ -7,6 +7,9 @@
 		"hxx",
 		"h++",
 		"inl",
-		"ipp"
+		"ipp",
+		"h",
+		"hpp",
+		"cpp"
 	]
 }
