@@ -1,0 +1,20 @@
+{
+	"HMAC": "uh2UTnxDhtKxzXFAo72vBA==",
+	"languages":
+	[
+		"cpp",
+		"python"
+	],
+	"ycmd_port": 8080,
+	"ycmd_server": "http://127.0.0.1",
+
+  /* =====       YCMD AUTO START MODE       =====*/
+  /*
+    If you want this plugin to automatically launch local ycmd-server:
+    a) Set "use_auto_start_localserver" to 1
+    b) Specify the path to your ycmd installation.
+    Ex:
+  */
+  "use_auto_start_localserver": 1,
+  "ycmd_path": "/home/igor/External/ycmd/ycmd",
+}
