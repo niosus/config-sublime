@@ -12,6 +12,7 @@
 		"AutoPEP8",
 		"BracketHighlighter",
 		"C++11",
+		"ClangAutoComplete",
 		"CMake",
 		"CMakeSnippets",
 		"Comment-Snippets",
