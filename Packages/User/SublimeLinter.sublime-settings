@@ -33,7 +33,8 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "filter": ""
+                "filter": "",
+                "linelength": ""
             },
             "mlint": {
                 "@disable": false,
@@ -42,9 +43,15 @@
             },
             "pep257": {
                 "@disable": false,
+                "add-ignore": "",
                 "args": [],
                 "excludes": [],
                 "ignore": "D100"
+            },
+            "proselint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
