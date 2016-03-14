@@ -79,7 +79,8 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"Vintage"
+		"Vintage",
+		"YcmdCompletion"
 	],
 	"indent_guide_options":
 	[
