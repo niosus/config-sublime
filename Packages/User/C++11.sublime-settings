@@ -1,4 +1,11 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".:>",
+			"selector": "source.c++ - string - comment - constant.numeric"
+		}
+	],
 	"extensions":
 	[
 		"cc",
@@ -8,14 +15,6 @@
 		"h++",
 		"inl",
 		"ipp",
-		"cpp",
 		"hpp"
-	],
-	"auto_complete_triggers":
-	[
-	    {
-	        "characters": ".:>",
-	        "selector": "source.c++ - string - comment - constant.numeric"
-	    }
 	]
 }
