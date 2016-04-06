@@ -60,6 +60,7 @@
 		"TodoReview",
 		"TrailingSpaces",
 		"WakaTime",
-		"Wrap Plus"
+		"Wrap Plus",
+		"YcmdCompletion"
 	]
 }

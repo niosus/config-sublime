@@ -82,7 +82,8 @@
 	[
 		"C++YouCompleteMe",
 		"Markdown",
-		"Vintage"
+		"Vintage",
+		"YcmdCompletion"
 	],
 	"indent_guide_options":
 	[
