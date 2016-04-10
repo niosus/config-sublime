@@ -27,7 +27,7 @@
                 "args": [],
                 "enable": "style",
                 "excludes": [],
-                "std": []
+                "std": ["c++11"]
             },
             "cpplint": {
                 "@disable": false,

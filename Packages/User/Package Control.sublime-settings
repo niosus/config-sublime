@@ -1,5 +1,6 @@
 {
 	"bootstrapped": true,
+	"ignore_vcs_packages": true,
 	"in_process_packages":
 	[
 	],
@@ -43,6 +44,7 @@
 		"Path Tools",
 		"Python PEP8 Autoformat",
 		"Seti_UI",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
 		"SublimeLinter-contrib-mlint",
