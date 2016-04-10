@@ -11,7 +11,10 @@
             "/opt/ros/indigo/include",
             "/opt/ros/jade/include",
             "$project_base_path/src",
-            "$project_base_path/src/ubn/homing/src",
+            "$project_base_path/ubn/homing/src",
+            "$project_base_path/ubn/traversability/src",
+            "$project_base_path/ubn/navigation/src",
+            "$project_base_path/uniroma/fps_mapper/src",
             ],
   /* Temporary file where current file will be written to */
   // "tmp_file_path" : "/tmp/auto_complete_tmp",
@@ -27,7 +30,7 @@
    * if autocomplete_all is set to false,
    * What triggers auto-completion process (should be same as sublime's own settings
    */
-  "selectors" : [ ">","."],
+  "selectors" : [ ">", ".", "::"],
 
   /*
    * if verbose is set to false, the plugin will output nothing.
