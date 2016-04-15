@@ -82,6 +82,7 @@
 	"ignored_packages":
 	[
 		"C++YouCompleteMe",
+		"clangHelper",
 		"Markdown",
 		"Vintage",
 		"YcmdCompletion"
