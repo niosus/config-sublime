@@ -1,9 +1,9 @@
 {
   /* Header files to fetch completion information from */
   "include_dirs" : [
-            "/usr/lib/clang/3.6/include",
-            "/usr/include/c++/4.8",
-            "/usr/include/x86_64-linux-gnu/c++/4.8",
+            // "/usr/lib/clang/3.6/include",
+            // "/usr/include/c++/4.8",
+            // "/usr/include/x86_64-linux-gnu/c++/4.8",
             "/usr/include",
             "/usr/include/pcl-1.7",
             "/usr/include/eigen3",
@@ -48,5 +48,8 @@
 
   /* Allow to change the binary or location of clang program */
   // "clang_binary" : "\"C:\\Program Files (x86)\\LLVM\\bin\\clang++\""
-  "clang_binary" : "clang++-3.6"
+  "clang_binary" : "clang++-3.6",
+
+  /* setting the standard library flag. */
+  "std_flag" : "-std=c++11"
 }

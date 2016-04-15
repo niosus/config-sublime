@@ -1,0 +1,20 @@
+{
+  // list of directories to pass as include options (-I) to clang
+  "include":
+  [
+            "/usr/lib/clang/3.6/include",
+            "/usr/include/c++/4.8",
+            "/usr/include/x86_64-linux-gnu/c++/4.8",
+            "/usr/include",
+            "/usr/include/pcl-1.7",
+            "/usr/include/eigen3",
+            "/usr/local/include",
+            "/opt/ros/indigo/include",
+            "/opt/ros/jade/include",
+            "$project_base_path/src",
+            "$project_base_path/ubn/homing/src",
+            "$project_base_path/ubn/traversability/src",
+            "$project_base_path/ubn/navigation/src",
+            "$project_base_path/uniroma/fps_mapper/src",
+  ]
+}
