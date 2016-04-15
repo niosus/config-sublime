@@ -65,7 +65,7 @@
 
     // Allow putting all parameters of a function declaration onto the next line
     // even if BinPackParameters is false.
-//  "AllowAllParametersOfDeclarationOnNextLine": true,
+ "AllowAllParametersOfDeclarationOnNextLine": true,
 
     // Allows contracting simple braced statements to a single line.
     // E.g., this allows if (a) { return; } to be put on a single line.
