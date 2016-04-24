@@ -67,7 +67,7 @@
 	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Zenburn (SL).tmTheme",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
 	"font_face": "Ubuntu Mono",
@@ -84,7 +84,6 @@
 		"C++YouCompleteMe",
 		"clangHelper",
 		"Markdown",
-		"SublimeLinter",
 		"TrailingSpaces",
 		"Vintage",
 		"YcmdCompletion"

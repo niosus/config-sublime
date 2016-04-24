@@ -2,6 +2,8 @@
    // Where should clang search for headers 
    // These will be appended to build with `-I` flag each
   "include_dirs" : [
+            "/usr/include/c++/4.8/iostream",
+            "/usr/lib/clang/3.4/include",
             "/usr/include",
             "/usr/include/pcl-1.7",
             "/usr/include/eigen3",
@@ -17,6 +19,9 @@
 
   // set the standard library flag. 
   "std_flag" : "-std=c++11",
+
+  // search for .clang_complete file up the tree. Use includes from it if found
+  "search_clang_complete_file": true,
   
   // triggers for auto-completion
   "triggers" : [ ".", "->", "::"],
@@ -26,6 +31,7 @@
 
   // add folder with current file with `-I` flag
   "include_file_folder" : true,
+  
   // add parent folder of the current file's one with `-I` flag
   "include_file_parent_folder" : true,
 

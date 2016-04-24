@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -735,7 +736,67 @@
                 <key>foreground</key>
                 <string>#DDB700</string>
             </dict>
-        </dict></array>
+        </dict><dict>
+    <key>name</key>
+    <string>GitSavvy Added Line</string>
+    <key>scope</key>
+    <string>git_savvy.change.addition</string>
+    <key>settings</key>
+    <dict>
+
+        <key>background</key>
+        <string>#37A832</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
+
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>GitSavvy Removed Line</string>
+    <key>scope</key>
+    <string>git_savvy.change.removal</string>
+    <key>settings</key>
+    <dict>
+
+        <key>background</key>
+        <string>#A83732</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
+
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>GitSavvy Added Line Bold</string>
+    <key>scope</key>
+    <string>git_savvy.change.addition.bold</string>
+    <key>settings</key>
+    <dict>
+
+        <key>background</key>
+        <string>#287020</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
+
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>GitSavvy Removed Line Bold</string>
+    <key>scope</key>
+    <string>git_savvy.change.removal.bold</string>
+    <key>settings</key>
+    <dict>
+
+        <key>background</key>
+        <string>#702820</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
+
+    </dict>
+</dict></array>
   <key>uuid</key>
   <string>A34A7407-68B9-48E5-883E-E551F7561026</string>
 </dict>
