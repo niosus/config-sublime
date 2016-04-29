@@ -8,13 +8,6 @@
             "/usr/include/pcl-1.7",
             "/usr/include/eigen3",
             "/usr/local/include",
-            "/opt/ros/indigo/include",
-            "/opt/ros/jade/include",
-            "$project_base_path/src",
-            "$project_base_path/ubn/homing/src",
-            "$project_base_path/ubn/traversability/src",
-            "$project_base_path/ubn/navigation/src",
-            "$project_base_path/uniroma/fps_mapper/src",
             ],
 
   // set the standard library flag. 
@@ -28,6 +21,9 @@
 
   // make plugin verbose
   "verbose" : true,
+
+  // show compile errors on save
+  "errors_on_save": true,
 
   // add folder with current file with `-I` flag
   "include_file_folder" : true,
