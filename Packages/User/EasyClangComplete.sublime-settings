@@ -2,8 +2,9 @@
    // Where should clang search for headers 
    // These will be appended to build with `-I` flag each
   "include_dirs" : [
-            "/usr/include/c++/4.8/iostream",
+            "/usr/include/c++/4.8",
             "/usr/lib/clang/3.4/include",
+            "/usr/include/x86_64-linux-gnu/c++/4.8",
             "/usr/include",
             "/usr/include/pcl-1.7",
             "/usr/include/eigen3",
@@ -18,6 +19,9 @@
   
   // triggers for auto-completion
   "triggers" : [ ".", "->", "::"],
+
+  // use libclang. If set to false will use clang_binary -cc1 output instead
+  "use_libclang" : true,
 
   // make plugin verbose
   "verbose" : true,
