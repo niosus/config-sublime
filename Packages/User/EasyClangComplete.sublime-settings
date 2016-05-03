@@ -2,9 +2,9 @@
    // Where should clang search for headers 
    // These will be appended to build with `-I` flag each
   "include_dirs" : [
-            "/usr/include",
-            "/usr/include/pcl-1.7",
-            "/usr/include/eigen3",
+            "/usr/include/c++/4.8",
+            "/usr/lib/clang/3.4/include",
+            "/usr/include/x86_64-linux-gnu/c++/4.8",
             ],
 
   // set the standard library flag. 
