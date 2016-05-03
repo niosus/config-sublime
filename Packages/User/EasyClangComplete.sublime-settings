@@ -5,6 +5,7 @@
             "/usr/include/c++/4.8",
             "/usr/lib/clang/3.4/include",
             "/usr/include/x86_64-linux-gnu/c++/4.8",
+            "/usr/include",
             ],
 
   // set the standard library flag. 
@@ -17,7 +18,7 @@
   "triggers" : [ ".", "->", "::"],
 
   // use libclang. If set to false will use clang_binary -cc1 output instead
-  "use_libclang" : false,
+  "use_libclang" : true,
 
   // make plugin verbose
   "verbose" : true,
