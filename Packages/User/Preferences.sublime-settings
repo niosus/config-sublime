@@ -71,7 +71,8 @@
 	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material Zenburn (SL).tmTheme",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Seahorse (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
@@ -80,13 +81,14 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
 		"C++YouCompleteMe",
+		"Clang Format",
 		"clangHelper",
 		"Markdown",
 		"TrailingSpaces",
