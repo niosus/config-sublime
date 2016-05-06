@@ -72,7 +72,7 @@
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Seahorse (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/MarsPeacock (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
@@ -88,7 +88,6 @@
 	"ignored_packages":
 	[
 		"C++YouCompleteMe",
-		"Clang Format",
 		"clangHelper",
 		"Markdown",
 		"TrailingSpaces",

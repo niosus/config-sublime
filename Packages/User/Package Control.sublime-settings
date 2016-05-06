@@ -15,6 +15,7 @@
 		"BracketHighlighter",
 		"C++11",
 		"C++YouCompleteMe",
+		"ChannelRepositoryTools",
 		"Clang Format",
 		"CMake",
 		"CMakeSnippets",
