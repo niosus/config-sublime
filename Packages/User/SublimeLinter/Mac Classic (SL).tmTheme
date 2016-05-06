@@ -462,6 +462,13 @@
             <dict>
                 <key>foreground</key>
                 <string>#D02000</string>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
             </dict>
         </dict><dict>
             <key>name</key>
