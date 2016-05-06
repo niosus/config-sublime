@@ -71,7 +71,7 @@
 	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Augmented Reaction (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
