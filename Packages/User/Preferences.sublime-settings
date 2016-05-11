@@ -87,12 +87,8 @@
 	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
-		"C++YouCompleteMe",
-		"clangHelper",
 		"Markdown",
-		"TrailingSpaces",
-		"Vintage",
-		"YcmdCompletion"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
