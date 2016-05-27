@@ -55,7 +55,8 @@
 		"de",
 		"Velodyne",
 		"Hokuyo",
-		"idx"
+		"idx",
+		"plugin"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_triggers":

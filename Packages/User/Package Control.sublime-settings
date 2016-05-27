@@ -56,7 +56,7 @@
 		"SublimeLinter-contrib-proselint",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-cpplint",
-		"SublimeLinter-pep257",
+		"SublimeLinter-pydocstyle",
 		"SublimeREPL",
 		"SVN",
 		"Tabright",
