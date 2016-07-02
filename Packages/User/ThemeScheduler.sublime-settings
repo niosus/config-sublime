@@ -1,0 +1,14 @@
+{
+    "enabled": false,
+    "themes":
+    [
+        {
+            "theme": "Packages/User/Color Scheme/Boxy Yesterday.sublime-theme",
+            "time": "8:30"
+        },
+        {
+            "theme": "Boxy Tomorrow.sublime-theme",
+            "time": "20:00"
+        }
+    ]
+}
