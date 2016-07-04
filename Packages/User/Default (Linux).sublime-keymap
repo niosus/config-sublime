@@ -1,4 +1,4 @@
 [
-    { "keys": ["alt+q"], "command": "wrap_lines_plus" },
+    // { "keys": ["alt+q"], "command": "wrap_lines_plus" },
     { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
 ]

@@ -13,7 +13,7 @@
 
   // search for .clang_complete file up the tree. Use includes from it if found
   "search_clang_complete_file": true,
-  
+
   // triggers for auto-completion
   "triggers" : [ ".", "->", "::"],
 
@@ -21,14 +21,14 @@
   "use_libclang" : true,
 
   // make plugin verbose
-  "verbose" : true,
+  "verbose" : false,
 
   // show compile errors on save
   "errors_on_save": true,
 
   // add folder with current file with `-I` flag
   "include_file_folder" : true,
-  
+
   // add parent folder of the current file's one with `-I` flag
   "include_file_parent_folder" : true,
 
