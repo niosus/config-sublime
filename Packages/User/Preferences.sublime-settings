@@ -77,7 +77,6 @@
 	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
