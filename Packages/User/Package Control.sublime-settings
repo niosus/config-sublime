@@ -25,6 +25,7 @@
 		"DictionaryAutoComplete",
 		"Diffy",
 		"DoxyDoxygen",
+		"EasyClangComplete",
 		"GhostText",
 		"Git Config",
 		"GitGutter",
@@ -49,6 +50,7 @@
 		"RustAutoComplete",
 		"Schemr",
 		"Seti_UI",
+		"SideBarEnhancements",
 		"Sublime Tutor",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
@@ -70,7 +72,6 @@
 		"TrailingSpaces",
 		"UnitTesting",
 		"WakaTime",
-		"Wrap Plus",
-		"Zen Tabs"
+		"Wrap Plus"
 	]
 }

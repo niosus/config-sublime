@@ -60,9 +60,8 @@
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_with_fields": true,
-	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
@@ -74,7 +73,6 @@
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -92,6 +90,6 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"theme": "Boxy Yesterday.sublime-theme",
+	"theme": "Boxy Tomorrow.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
