@@ -61,7 +61,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_with_fields": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/1337 (SL).tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
 	"flatland_square_tabs": true,
@@ -90,6 +90,6 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Boxy Ocean.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

@@ -18,6 +18,8 @@
 		"ChannelRepositoryTools",
 		"Clang Format",
 		"CMake",
+		"CMakeBuilder",
+		"CMakeEditor",
 		"CMakeSnippets",
 		"Colorsublime",
 		"Comment-Snippets",
