@@ -28,3 +28,5 @@ Packages/*
 /Packages/User/GitSavvy/GitSavvy.active-diff-view.json.tmTheme
 
 Packages/User/SublimeLinter/*.tmTheme
+
+*.hidden-tmTheme
