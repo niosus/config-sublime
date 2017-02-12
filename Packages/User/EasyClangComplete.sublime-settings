@@ -19,7 +19,7 @@
     "clang_binary" : "clang++",
 
     // make plugin verbose
-    "verbose" : false,
+    "verbose" : true,
 
     // add folder with current file with `-I` flag
     "include_file_folder" : true,
@@ -42,4 +42,6 @@
     "cmake_prefix_paths": [
             "~/Code/catkin_ws/devel",
             "/opt/ros/indigo"],
+
+    "show_type_info": true
 }
