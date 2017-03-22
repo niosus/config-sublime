@@ -56,7 +56,7 @@
     /*
         Set those as true if you don't want Sublime Text regular completions
     */
-    "suppress_word_completions": false,
+    "suppress_word_completions": true,
     "suppress_explicit_completions": false,
 
     /*
@@ -66,14 +66,14 @@
         If complete_all_parameters is true, it will add all the possible
         parameters, if it's false, it will add only required parameters
     */
-    "complete_parameters": false,
+    "complete_parameters": true,
     "complete_all_parameters": false,
 
     /*
         If you set the following option as true, anaconda will display the
         signatures of the methods you are using while typing
     */
-    "display_signatures": false,
+    "display_signatures": true,
 
     /*
         The following set of options controls the pep8 autoformating behaviour
