@@ -12,7 +12,7 @@
     "search_clang_complete_file": true,
 
     // triggers for auto-completion
-    "triggers" : [ ".", "->", "::"],
+    "triggers" : [ ".", "->", "::", " "],
 
     // pick the clang binary used by the plugin. This is used to determine the
     // version of the plugin and pick correct libclang bindings.
@@ -26,10 +26,6 @@
 
     // add parent folder of the current file's one with `-I` flag
     "include_file_parent_folder" : true,
-
-    // pick the clang binary used by the plugin. This is used to determine the
-    // version of the plugin and pick correct libclang bindings.
-    "clang_binary" : "clang++",
 
     // ignore triggers and try to complete after each character
     // WARNING: can be very slow
