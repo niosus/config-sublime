@@ -56,7 +56,10 @@
 		"Velodyne",
 		"Hokuyo",
 		"idx",
-		"plugin"
+		"plugin",
+		"rasterization",
+		"octomap",
+		"octomaps"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_cycle": true,
