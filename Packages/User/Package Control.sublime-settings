@@ -11,7 +11,7 @@
 		"All Autocomplete",
 		"Anaconda",
 		"AutoDocstring",
-		"AutoPEP8",
+		"ayu",
 		"BeautifyRust",
 		"Boxy Theme",
 		"BracketHighlighter",
@@ -20,14 +20,13 @@
 		"ChannelRepositoryTools",
 		"Clang Format",
 		"CMake",
-		"CMakeBuilder",
 		"CMakeEditor",
 		"CMakeSnippets",
 		"Colorsublime",
 		"Comment-Snippets",
 		"DictionaryAutoComplete",
 		"DoxyDoxygen",
-		"EasyClangComplete",
+		"fish",
 		"GhostText",
 		"Git Config",
 		"GitGutter",
@@ -37,8 +36,8 @@
 		"LaTeX Snippets",
 		"LaTeXTools",
 		"MagicPython",
+		"Markdown Extended",
 		"Markdown Preview",
-		"MarkdownEditing",
 		"Material Theme",
 		"Materialize",
 		"My Snippets",
@@ -48,11 +47,13 @@
 		"PackageResourceViewer",
 		"Path Tools",
 		"Python PEP8 Autoformat",
+		"RestructuredText Improved",
 		"Rust Enhanced",
 		"RustAutoComplete",
 		"Schemr",
 		"Seti_UI",
 		"SideBarEnhancements",
+		"Skins",
 		"Sublime Tutor",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
@@ -74,5 +75,9 @@
 		"UnitTesting",
 		"WakaTime",
 		"Wrap Plus"
+	],
+	"repositories":
+	[
+		"https://github.com/niosus/EasyClangComplete/tree/fix_loading_crash"
 	]
 }

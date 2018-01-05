@@ -1,0 +1,21 @@
+{
+	"dark_one":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+			"font_face": "Inconsolata",
+			"font_size": 10,
+			"theme": "ayu-mirage.sublime-theme"
+		},
+		"SublimeLinter":
+		{
+			"user":
+			{
+				"error_color": "D02000",
+				"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+				"warning_color": "DDB700"
+			}
+		}
+	}
+}
