@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-
 #pragma once
 
+${0}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>pragma_once</tabTrigger>

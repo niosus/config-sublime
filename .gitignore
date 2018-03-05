@@ -30,3 +30,5 @@ Packages/*
 Packages/User/SublimeLinter/*.tmTheme
 
 *.hidden-tmTheme
+
+Packages/User/UnitTesting/EasyClangComplete/*

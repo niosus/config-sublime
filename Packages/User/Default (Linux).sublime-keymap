@@ -1,14 +1,52 @@
 [
-    { "keys": ["alt+q"], "command": "wrap_lines_plus" },
-    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
-    { "keys": ["alt+shift+q"], "command": "doxy_comment_nearest_entity", "args": {}, "context":
-        [
-            { "key": "selector", "operator": "equal", "operand": "source, text.html.cshtml, text.jade", "match_all": true }
-        ]
+  {
+    "keys": [
+      "alt+q"
+    ],
+    "command": "wrap_lines_plus"
+  },
+  {
+    "keys": [
+      "ctrl+shift+r"
+    ],
+    "command": "goto_symbol_in_project"
+  },
+  {
+    "keys": [
+      "alt+shift+q"
+    ],
+    "command": "doxy_comment_nearest_entity",
+    "args": {},
+    "context": [
+      {
+        "key": "selector",
+        "operator": "equal",
+        "operand": "source, text.html.cshtml, text.jade",
+        "match_all": true
+      }
+    ]
+  },
+  {
+    "keys": [
+      "alt+shift+q"
+    ],
+    "command": "doxy_update_comments",
+    "args": {
+      "reparse": true
     },
-    { "keys": ["alt+shift+q"], "command": "doxy_update_comments", "args": { "reparse": true }, "context":
-        [
-            { "key": "selector", "operator": "equal",  "operand": "comment, string.quoted.double.block.cython, string.quoted.single.block.cython, string.quoted.double.block.python, string.quoted.single.block.python", "match_all": true }
-        ]
-    }
+    "context": [
+      {
+        "key": "selector",
+        "operator": "equal",
+        "operand": "comment, string.quoted.double.block.cython, string.quoted.single.block.cython, string.quoted.double.block.python, string.quoted.single.block.python",
+        "match_all": true
+      }
+    ]
+  },
+  {
+    "keys": [
+      "ctrl+k", "ctrl+s"
+    ],
+    "command": "sublime_linter_line_report"
+  }
 ]

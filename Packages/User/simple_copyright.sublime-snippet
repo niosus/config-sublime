@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-// Copyright ${1:Igor Bogoslavskyi}, year ${2:2017}.
+// Copyright ${1:Igor Bogoslavskyi}, year ${2:2018}.
 // In case of any problems with the code please contact me.
 // Email: ${3:igor.bogoslavskyi@uni-bonn.de}.
 
+${0}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>simple_copyright</tabTrigger>
