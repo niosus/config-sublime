@@ -10,7 +10,6 @@ Installed Packages/
 
 Packages/*
 !Packages/User
-!Packages/Clang-Complete
 
 
 # do not sync these files even though they are in user folder
@@ -19,16 +18,11 @@ Packages/*
 *.ca-bundle
 *.system-ca-bundle
 *.ca-certs/
-# everything that is cache is not interesting
 *.cache*
-
-.SublimeREPLHistory
-/Packages/User/encoding_cache.json
-
-/Packages/User/GitSavvy/GitSavvy.active-diff-view.json.tmTheme
-
-Packages/User/SublimeLinter/*.tmTheme
-
 *.hidden-tmTheme
+.SublimeREPLHistory
 
+Packages/User/encoding_cache.json
+Packages/User/GitSavvy/*.tmTheme
+Packages/User/SublimeLinter/*.tmTheme
 Packages/User/UnitTesting/EasyClangComplete/*
