@@ -1,16 +1,13 @@
 {
-     // Where should clang search for headers
-     // These will be appended to build with `-I` flag each
+    // Specify common flags that will be passed to clang for EVERY build.
     "common_flags" : [
-    // some example includes
-    "-I/usr/include",
-    "-I$project_base_path/src",
-    // this is needed to include the correct headers for clang
-    "-I/usr/lib/clang/$clang_version/include",
-    "-Wall"
+      // some example includes
+      "-I/usr/include",
+      "-I$project_base_path/src",
+      // this is needed to include the correct headers for clang
+      "-I/usr/lib/clang/$clang_version/include",
+      "-Wall"
     ],
-    // set the standard library flag.
-
     // search for .clang_complete file up the tree. Use includes from it if found
     "search_clang_complete_file": true,
 
@@ -44,5 +41,5 @@
 
     "use_target_compiler_built_in_flags": false,
 
-    "show_type_info": true
+    "show_type_info": true,
 }

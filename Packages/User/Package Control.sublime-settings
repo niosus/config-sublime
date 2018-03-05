@@ -12,7 +12,6 @@
 		"All Autocomplete",
 		"Anaconda",
 		"AutoDocstring",
-		"AutoPEP8",
 		"ayu",
 		"BeautifyRust",
 		"Boxy Theme",
@@ -33,8 +32,8 @@
 		"LaTeX Snippets",
 		"LaTeXTools",
 		"MagicPython",
+		"Markdown Extended",
 		"Markdown Preview",
-		"MarkdownEditing",
 		"Material Theme",
 		"Materialize",
 		"My Snippets",
@@ -46,6 +45,7 @@
 		"Pretty JSON",
 		"Protobuf Syntax Hightlighting",
 		"Python PEP8 Autoformat",
+		"RestructuredText Improved",
 		"Rust Enhanced",
 		"RustAutoComplete",
 		"Schemr",
@@ -67,5 +67,5 @@
 		"UnitTesting",
 		"WakaTime",
 		"Wrap Plus"
-	]
+	],
 }

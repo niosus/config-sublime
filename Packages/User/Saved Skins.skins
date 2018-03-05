@@ -1,10 +1,10 @@
 {
-	"fav":
+	"dark_one":
 	{
 		"Preferences":
 		{
 			"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-			"font_face": "Iosevka Nerd Font Medium",
+			"font_face": "Inconsolata",
 			"font_size": 10,
 			"theme": "ayu-mirage.sublime-theme"
 		},
