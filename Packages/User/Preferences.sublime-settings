@@ -76,10 +76,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Catkin Builder",
+		"CUDA C++",
 		"Python",
 		"RestructuredText",
-		"SublimeLinter-flake8",
-		"SublimeLinter-pydocstyle",
+		"SublimeLinter-contrib-proselint",
+		"SublimeLinter-pep8",
 		"Vintage"
 	],
 	"indent_guide_options":

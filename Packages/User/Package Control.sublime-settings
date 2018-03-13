@@ -19,7 +19,7 @@
 		"C++11",
 		"ChannelRepositoryTools",
 		"Clang Format",
-		"CMake",
+		"CMakeEditor",
 		"CMakeSnippets",
 		"DoxyDoxygen",
 		"fish",
@@ -67,5 +67,5 @@
 		"UnitTesting",
 		"WakaTime",
 		"Wrap Plus"
-	],
+	]
 }
