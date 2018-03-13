@@ -1,0 +1,12 @@
+<snippet>
+    <description>class_better</description>
+    <content><![CDATA[
+class ${TM_FILENAME/^(\w)|(?:_(\w))|(\.h)/(?1\u$1:)(?2\u$2:)/g} {
+ public:
+  ${TM_FILENAME/^(\w)|(?:_(\w))|(\.h)/(?1\u$1:)(?2\u$2:)/g}(${0});
+};
+
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.c, source.c++, source.objc, source.objc++</scope>
+</snippet>
