@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-// LOG(${1:INFO}) << ${2:message};
-]]></content>
-  <tabTrigger>todo</tabTrigger>
-  <scope>source.c++,source.c</scope>
-</snippet>

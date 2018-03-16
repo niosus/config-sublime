@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+LOG(${1:INFO}) << ${2:message};
+]]></content>
+    <tabTrigger>glog</tabTrigger>
+    <scope>source.c++,source.c</scope>
+    <description>Google Log snippet</description>
+</snippet>

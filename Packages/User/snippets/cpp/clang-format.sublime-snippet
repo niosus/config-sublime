@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[
 // clang-format off
-$SELECTION$0
+${1:$SELECTION}
 // clang-format on
+${0}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>clang-format</tabTrigger>
