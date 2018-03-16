@@ -17,5 +17,15 @@
 				"warning_color": "DDB700"
 			}
 		}
+	},
+	"light_skin":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Color Scheme - Legacy/Dawn.tmTheme",
+			"font_face": "FantasqueSansMono Nerd Font",
+			"font_size": 12,
+			"theme": "El Capitan.sublime-theme"
+		}
 	}
 }
